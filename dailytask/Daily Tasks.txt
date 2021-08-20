@@ -1,0 +1,18 @@
+16/08/2021
+
+1) grafana ---elk-----------------pending
+2) Create a 2 dbs----------------pending
+	1 db = employee details ==> empname , empno, insert 1000 recodrs 
+3) create a dasboards in cloud watch------pending
+
+
+
+
+17/08/2021
+
+
+1) jenkins master slave ----------------------------done
+2) auto scalling --flask--ami--nodes----------------pending
+3) test with postman in flask ----------------------pending
+4)how many aws ec2 ami codes count using python ----pending
+5) python with json --videos------------------------pending
